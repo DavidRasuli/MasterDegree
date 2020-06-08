@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="assetservice" />
+        <module name="configurationserver" />
+        <module name="eurekasvr" />
+        <module name="organization-service" />
+        <module name="zipkinsvr" />
+        <module name="zuulsvr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assetservice" target="1.8" />
+      <module name="configurationserver" target="1.8" />
+      <module name="eurekasvr" target="1.8" />
+      <module name="organization-service" target="1.8" />
+      <module name="tmx-parent-pom" target="1.6" />
+      <module name="zipkinsvr" target="1.8" />
+      <module name="zuulsvr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

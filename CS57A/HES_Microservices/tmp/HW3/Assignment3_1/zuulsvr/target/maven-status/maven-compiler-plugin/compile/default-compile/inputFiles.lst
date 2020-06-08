@@ -1,0 +1,13 @@
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextHolder.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/UserInfo.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/FilterUtils.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContext.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextInterceptor.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/SpecialRoutesFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/ZuulServerApplication.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/AuthenticationFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/TrackingFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/config/ServiceConfig.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/AbTestingRoute.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/ResponseFilter.java

@@ -1,0 +1,6 @@
+version: '2'
+services:
+  assetservice:
+    image: rasoly/assets-service:hw1_2
+    ports:
+      - "8080:8080"

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>rasoly.thoughtmechanix</groupId>
+	<artifactId>assets-service</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Assignment2_2-parent-pom</name>
+	<description>Parent Pom for the Assignment2_2 project</description>
+
+	<packaging>pom</packaging>
+
+	<repositories>
+		<repository>
+			<id>central</id>
+			<url>http://repo.maven.apache.org/maven2</url>
+		</repository>
+	</repositories>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.4.4.RELEASE</version>
+	</parent>
+	<modules>
+		<module>confsvr</module>
+		<module>asset-service</module>
+		<module>organization-service</module>
+		<module>eurekasvr</module>
+	</modules>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.spotify</groupId>
+				<artifactId>docker-maven-plugin</artifactId>
+				<version>0.4.10</version>
+				<configuration>
+					<baseImage>java</baseImage>
+					<imageName>example</imageName>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

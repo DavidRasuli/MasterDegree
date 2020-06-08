@@ -1,0 +1,14 @@
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalConfiguration.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextHolder.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/repository/OrgUserRepository.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/WebSecurityConfigurer.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalAwareStrategy.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/InspectHeaderFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/Application.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContext.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextInterceptor.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/config/ServiceConfig.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/DelegatingUserContextCallable.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/OAuth2Config.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/model/UserOrganization.java

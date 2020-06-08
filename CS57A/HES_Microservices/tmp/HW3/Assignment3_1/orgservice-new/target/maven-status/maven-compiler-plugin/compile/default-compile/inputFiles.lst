@@ -1,0 +1,12 @@
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/repository/OrganizationRepository.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/utils/UserContextInterceptor.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/model/Organization.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/hystrix/DelegatingUserContextCallable.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/services/OrganizationService.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/utils/UserContextFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/Application.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/utils/UserContextHolder.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/controllers/OrganizationServiceController.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/utils/UserContext.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/hystrix/ThreadLocalConfiguration.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/orgservice-new/src/main/java/rasoly/thoughtmechanix/organization/hystrix/ThreadLocalAwareStrategy.java

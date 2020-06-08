@@ -1,0 +1,65 @@
+<html>
+<head>
+    <title>Movies</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" />
+    <!-- <link rel="stylesheet" th:href="@{/style.css}"></link> -->
+</head>
+
+<body>
+<div class="container">
+    <h2>Add a movie</h2>
+    <form class="user-form" method="POST">
+        <label for="viewer">Viewer:</label> <input type="text" name="viewer"
+                                               size="4" class="form-control"></input>
+        <br /> <label for="title">Title:</label>
+        <input type="text" name="title" size="50" class="form-control"></input><br />
+        <label for="year">Year:</label> <input type="text" name="year"
+                                                 size="50" class="form-control"></input><br />
+        <label for="director">Director:</label>
+        <input type="text" name="director" size="25" class="form-control"></input><br />
+        <label for="star">Star:</label>
+        <input type="text" name="star" size="25" class="form-control"></input><br />
+        <label for="description">Description:</label><br />
+        <textarea name="description" cols="80" rows="5" class="form-control"></textarea>
+        <br />
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <button class="btn btn-danger" type="reset">Reset</button>
+    </form>
+</div>
+
+<div  class="container">
+    <hr />
+    <div th:unless="${#lists.isEmpty(movies)}">
+        <h2>Inserted movie along with other movies that match this viewer:</h2>
+        <table
+                class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Viewer</th>
+                <th>Title</th>
+                <th>Year</th>
+                <th>Director</th>
+                <th>Star</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody th:each="movie : ${movies}">
+            <tr class="movieHeadline">
+                <td th:text="${movie.viewer}"></td>
+                <td th:text="${movie.title}"></td>
+                <td th:text="${movie.year}"></td>
+                <td th:text="${movie.director}"></td>
+                <td th:text="${movie.star}"></td>
+                <td th:if="${movie.description}" th:text="${movie.description}"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div th:if="${#lists.isEmpty(movies)}" class="alert alert-warning">
+        <strong>Info!</strong>You have no movies in your movie list
+    </div>
+</div>
+</body>
+</html>

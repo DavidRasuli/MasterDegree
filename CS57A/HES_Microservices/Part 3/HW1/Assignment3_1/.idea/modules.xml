@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assets-service.iml" filepath="$PROJECT_DIR$/assets-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assetservice/assetservice.iml" filepath="$PROJECT_DIR$/assetservice/assetservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication-service/authentication-service.iml" filepath="$PROJECT_DIR$/authentication-service/authentication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confsvr/confsvr.iml" filepath="$PROJECT_DIR$/confsvr/confsvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekasvr/eurekasvr.iml" filepath="$PROJECT_DIR$/eurekasvr/eurekasvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/organization-service/organization-service.iml" filepath="$PROJECT_DIR$/organization-service/organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orgservice-new/orgservice-new.iml" filepath="$PROJECT_DIR$/orgservice-new/orgservice-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/specialroutes-service/specialroutesservice.iml" filepath="$PROJECT_DIR$/specialroutes-service/specialroutesservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulsvr/zuulsvr.iml" filepath="$PROJECT_DIR$/zuulsvr/zuulsvr.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/utils/UserContextFilter.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/utils/UserContext.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/hystrix/ThreadLocalConfiguration.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/utils/UserContextHolder.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/utils/UserContextInterceptor.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/services/AbTestingRouteService.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/model/AbTestingRoute.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/repository/AbTestingRouteRepository.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/exception/NoRouteFound.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/controllers/SpecialRoutesServiceController.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/hystrix/ThreadLocalAwareStrategy.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/Application.java
+/Users/rasoly/HES_Microservices/tmp/HW3/Assignment3_1/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/hystrix/DelegatingUserContextCallable.java

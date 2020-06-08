@@ -1,0 +1,14 @@
+rasoly/thoughtmechanix/authentication/InspectHeaderFilter.class
+rasoly/thoughtmechanix/authentication/security/WebSecurityConfigurer.class
+rasoly/thoughtmechanix/authentication/utils/UserContext.class
+rasoly/thoughtmechanix/authentication/config/ServiceConfig.class
+rasoly/thoughtmechanix/authentication/utils/UserContextHolder.class
+rasoly/thoughtmechanix/authentication/repository/OrgUserRepository.class
+rasoly/thoughtmechanix/authentication/security/OAuth2Config.class
+rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalConfiguration.class
+rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalAwareStrategy.class
+rasoly/thoughtmechanix/authentication/Application.class
+rasoly/thoughtmechanix/authentication/hystrix/DelegatingUserContextCallable.class
+rasoly/thoughtmechanix/authentication/model/UserOrganization.class
+rasoly/thoughtmechanix/authentication/utils/UserContextFilter.class
+rasoly/thoughtmechanix/authentication/utils/UserContextInterceptor.class

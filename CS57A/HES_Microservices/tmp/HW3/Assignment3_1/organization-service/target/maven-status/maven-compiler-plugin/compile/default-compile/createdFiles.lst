@@ -1,0 +1,14 @@
+rasoly/thoughtmechanix/organization/utils/UserContextInterceptor.class
+rasoly/thoughtmechanix/organization/utils/UserContextHolder.class
+rasoly/thoughtmechanix/organization/hystrix/ThreadLocalAwareStrategy.class
+rasoly/thoughtmechanix/organization/config/ServiceConfig.class
+rasoly/thoughtmechanix/organization/repository/OrganizationRepository.class
+rasoly/thoughtmechanix/organization/model/Organization.class
+rasoly/thoughtmechanix/organization/Application.class
+rasoly/thoughtmechanix/organization/controllers/OrganizationServiceController.class
+rasoly/thoughtmechanix/organization/security/ResourceServerConfiguration.class
+rasoly/thoughtmechanix/organization/hystrix/DelegatingUserContextCallable.class
+rasoly/thoughtmechanix/organization/services/OrganizationService.class
+rasoly/thoughtmechanix/organization/hystrix/ThreadLocalConfiguration.class
+rasoly/thoughtmechanix/organization/utils/UserContext.class
+rasoly/thoughtmechanix/organization/utils/UserContextFilter.class

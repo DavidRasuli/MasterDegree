@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0ae75b8-ae52-47db-857b-ffc8df516a84" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/asset-service/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/confsvr/target/" />
+    <ignored path="$PROJECT_DIR$/eurekasvr/target/" />
+    <ignored path="$PROJECT_DIR$/organization-service/target/" />
+    <ignored path="$PROJECT_DIR$/zuulsvr/target/" />
+    <ignored path="$PROJECT_DIR$/authentication-service/target/" />
+    <ignored path="$PROJECT_DIR$/specialroutes-service/target/" />
+    <ignored path="$PROJECT_DIR$/orgservice-new/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/services/AssetService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="58" column="93" lean-forward="true" selection-start-line="58" selection-start-column="93" selection-end-line="58" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset-service/src/main/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset-service/src/main/resources/schema.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/model/Organization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/repository/AssetRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/ResponseFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/FilterUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/var/lib/</find>
+      <find>tag</find>
+      <find>licensingservice:</find>
+      <find>getaddrinfo</find>
+      <find>HES_Microservices</find>
+      <find>example.property</find>
+      <find>assetsservice</find>
+      <find>assetId</find>
+      <find>1_3</find>
+      <find>apps</find>
+      <find>feign</find>
+      <find>2_1</find>
+      <find>Circuit</find>
+      <find>assignment2_2</find>
+      <find>assignment2_3</find>
+      <find>'org-1', 'org1',</find>
+      <find>com.thoughtmechanix</find>
+      <find>organization-service</find>
+      <find>2_3</find>
+      <find>jwt</find>
+      <find>git</find>
+      <find>li</find>
+      <find>licensing</find>
+      <find>organizationservice</find>
+      <find>davi</find>
+      <find>token</find>
+      <find>thisis</find>
+      <find>dr123</find>
+      <find>asset-service</find>
+      <find>/api/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2_1</replace>
+      <replace>2_2</replace>
+      <replace>assignment2_3</replace>
+      <replace>rasoly.thoughtmechanix</replace>
+      <replace>3_1</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/hystrix/ThreadLocalConfiguration.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/hystrix/ThreadLocalAwareStrategy.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/controllers/AssetsServiceController.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/AssetsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/organization-service/src/main/Java/com/thoughtmechanix/organization/Application.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/services/AssetService.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/FilterUtils.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/ResponseFilter.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/TrackingFilter.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContext.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextHolder.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextInterceptor.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/ZuulServerApplication.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/utils/UserContextFilter.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/pom.xml" />
+        <option value="$PROJECT_DIR$/orgservice-new/src/main/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/specialroutes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/docker/common/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/authentication-service/pom.xml" />
+        <option value="$PROJECT_DIR$/organization-service/src/main/Java/com/thoughtmechanix/organization/security/ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/Application.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/InspectHeaderFilter.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/model/UserOrganization.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalConfiguration.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/config/ServiceConfig.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContext.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextInterceptor.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextHolder.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/DelegatingUserContextCallable.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/hystrix/ThreadLocalAwareStrategy.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/repository/OrgUserRepository.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/OAuth2Config.java" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/WebSecurityConfigurer.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/organization-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/config/ServiceConfig.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/config/ServiceConfig.java" />
+        <option value="$PROJECT_DIR$/confsvr/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/organization-service/src/main/Java/rasoly/thoughtmechanix/organization/Application.java" />
+        <option value="$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/security/ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/asset-service/pom.xml" />
+        <option value="$PROJECT_DIR$/organization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orgservice-new/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextFilter.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/AbTestingRoute.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/UserInfo.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/SpecialRoutesFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="y" value="-370" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Assignment1_3" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="asset-service" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Assignment1_3" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="assets-service" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Assignment1_3" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="confsvr" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assetsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="asset-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="confsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekasvr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="organization" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="organization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="orgservice-new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="orgservice-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="orgservice-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="orgservice-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="specialroutes" type="462c0819:PsiDirectoryNode" />
+              <item name="hystrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="filters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulsvr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-1.4.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-1.4.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-1.4.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558021946743" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/confsvr/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/organization-service/src/main" />
+      <recent name="$PROJECT_DIR$/confsvr/src/main/resources/config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AssetsServiceApplication">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="authentication-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thoughtmechanix.authentication.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="organization-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.organization.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="specialroutesservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.specialroutes.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="authentication-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.authentication.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="organization-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thoughtmechanix.organization.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssetsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="asset-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.assetsservice.AssetsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="confsvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.confsvr.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="confsvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thoughtmechanix.confsvr.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekasvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.eurekasvr.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekasvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thoughtmechanix.eurekasvr.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuulsvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rasoly.thoughtmechanix.zuulsvr.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuulsvr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.java.rasoly.thoughtmechanix.zuulsvr.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0ae75b8-ae52-47db-857b-ffc8df516a84" name="Default Changelist" comment="" />
+      <created>1551561391121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551561391121</updated>
+      <workItem from="1551561395241" duration="3093000" />
+      <workItem from="1551643581777" duration="1655000" />
+      <workItem from="1551646340087" duration="1532000" />
+      <workItem from="1551647914750" duration="6401000" />
+      <workItem from="1551692063122" duration="7000" />
+      <workItem from="1551819168264" duration="2003000" />
+      <workItem from="1551883194925" duration="7815000" />
+      <workItem from="1552381073611" duration="598000" />
+      <workItem from="1552384870219" duration="132000" />
+      <workItem from="1553201373648" duration="9378000" />
+      <workItem from="1553713119408" duration="1728000" />
+      <workItem from="1553966634242" duration="2931000" />
+      <workItem from="1554053808980" duration="3753000" />
+      <workItem from="1554227292295" duration="2267000" />
+      <workItem from="1554408940509" duration="2631000" />
+      <workItem from="1554582606607" duration="4938000" />
+      <workItem from="1554753137293" duration="6331000" />
+      <workItem from="1554999792105" duration="7998000" />
+      <workItem from="1555270748263" duration="885000" />
+      <workItem from="1555437412450" duration="3885000" />
+      <workItem from="1555530198101" duration="4268000" />
+      <workItem from="1556728148850" duration="1271000" />
+      <workItem from="1556830068973" duration="164000" />
+      <workItem from="1557160124585" duration="2443000" />
+      <workItem from="1557427485025" duration="8770000" />
+      <workItem from="1557847780954" duration="4213000" />
+      <workItem from="1557867922280" duration="30000" />
+      <workItem from="1557868390038" duration="1183000" />
+      <workItem from="1557946235461" duration="2644000" />
+      <workItem from="1558021607353" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-370" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2140575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.43678162" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32902467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.44680852" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.33646813" />
+      <window_info anchor="bottom" id="Gerrit" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.13578275" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/services/AssetService.java</url>
+          <line>78</line>
+          <properties class="rasoly.thoughtmechanix.assetsservice.assets.services.AssetService" method="updateAsset">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/organization-service/src/main/java/rasoly/thoughtmechanix/organization/config/ServiceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization-service/src/main/java/rasoly/thoughtmechanix/organization/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/exception/NoRouteFound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/hystrix/ThreadLocalAwareStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/hystrix/DelegatingUserContextCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/ZuulServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orgservice-new/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orgservice-new/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orgservice-new/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/AssetsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/docker/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="31" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confsvr/src.main.java.com.thoughtmechanix.confsvr.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/security/ResourceServerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/common/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContextFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.4.RELEASE/spring-boot-autoconfigure-1.4.4.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/AbTestingRoute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/model/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/SpecialRoutesFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/TrackingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialroutes-service/src/main/java/rasoly/thoughtmechanix/specialroutes/controllers/SpecialRoutesServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/clients/OrganizationRestTemplateClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/WebSecurityConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/docker/run.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confsvr/src/main/docker/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/utils/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-service/src/main/java/rasoly/thoughtmechanix/authentication/security/OAuth2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confsvr/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/model/Asset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization-service/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/model/Organization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/repository/AssetRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/ResponseFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/java/rasoly/thoughtmechanix/zuulsvr/filters/FilterUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/java/rasoly/thoughtmechanix/assetsservice/assets/services/AssetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="58" column="93" lean-forward="true" selection-start-line="58" selection-start-column="93" selection-end-line="58" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset-service/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulsvr/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>organization-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
